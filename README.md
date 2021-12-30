@@ -1,3 +1,1 @@
-1. We didn't upload an image to IPFS ourselves
-2. Why is IPFS is decentralized?
-3. Anyone can mint an NFT here - not verifiably scarce or random
+# Test `proxy` design pattern for upgrade contract
