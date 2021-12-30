@@ -16,6 +16,7 @@ python-dotenv = "0.16.0"
 vyper = {version="0.3.0", python="3.8"}
 jupyter = "1.0.0"
 autopep8 = "^1.6.0"
+eth-utils = "^1.10.0"
 [tool.poetry.dev-dependencies]
 
 [build-system]
